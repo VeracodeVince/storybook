@@ -72,7 +72,7 @@
     "@storybook/core": "6.4.0-alpha.13",
     "@storybook/core-events": "6.4.0-alpha.13",
     "@storybook/csf": "0.0.1",
-    "@storybook/csf-tools": "6.4.0-alpha.13",
+    "@storybook/csf-tools": "6.3.0",
     "@storybook/node-logger": "6.4.0-alpha.13",
     "@storybook/postinstall": "6.4.0-alpha.13",
     "@storybook/source-loader": "6.4.0-alpha.13",
