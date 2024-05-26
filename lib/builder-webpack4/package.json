@@ -89,7 +89,7 @@
     "find-up": "^5.0.0",
     "fork-ts-checker-webpack-plugin": "^4.1.6",
     "fs-extra": "^9.0.1",
-    "glob": "^7.1.6",
+    "glob": "^9.0.0",
     "glob-promise": "^3.4.0",
     "global": "^4.4.0",
     "html-webpack-plugin": "^4.0.0",
