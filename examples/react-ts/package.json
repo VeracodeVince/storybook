@@ -20,7 +20,7 @@
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "typescript": "^3.9.7",
-    "webpack": "4"
+    "webpack": "5.79.0"
   },
   "devDependencies": {
     "@testing-library/dom": "^7.31.2",
