@@ -67,7 +67,7 @@
     "@storybook/client-api": "6.4.0-alpha.13",
     "@storybook/client-logger": "6.4.0-alpha.13",
     "@storybook/components": "6.4.0-alpha.13",
-    "@storybook/core-common": "6.4.0-alpha.13",
+    "@storybook/core-common": "7.0.0",
     "@storybook/core-events": "6.4.0-alpha.13",
     "@storybook/node-logger": "6.4.0-alpha.13",
     "@storybook/router": "6.4.0-alpha.13",
