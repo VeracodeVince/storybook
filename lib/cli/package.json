@@ -48,7 +48,7 @@
   "dependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
-    "@storybook/codemod": "6.4.0-alpha.13",
+    "@storybook/codemod": "7.0.0",
     "@storybook/node-logger": "6.4.0-alpha.13",
     "@storybook/semver": "^7.3.2",
     "boxen": "^4.2.0",
@@ -62,7 +62,7 @@
     "fs-extra": "^9.0.1",
     "get-port": "^5.1.1",
     "globby": "^11.0.2",
-    "jscodeshift": "^0.11.0",
+    "jscodeshift": "^0.14.0",
     "json5": "^2.1.3",
     "leven": "^3.1.0",
     "prompts": "^2.4.0",
