@@ -64,7 +64,7 @@
     "file-system-cache": "^1.0.5",
     "fs-extra": "^9.0.1",
     "globby": "^11.0.2",
-    "ip": "^1.1.5",
+    "ip": "^1.1.9",
     "node-fetch": "^2.6.1",
     "pretty-hrtime": "^1.0.3",
     "prompts": "^2.4.0",
