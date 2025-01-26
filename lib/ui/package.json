@@ -41,8 +41,8 @@
   },
   "dependencies": {
     "@emotion/core": "^10.1.1",
-    "@storybook/addons": "6.4.0-alpha.13",
-    "@storybook/api": "6.4.0-alpha.13",
+    "@storybook/addons": "3.0.0",
+    "@storybook/api": "7.0.0",
     "@storybook/channels": "6.4.0-alpha.13",
     "@storybook/client-logger": "6.4.0-alpha.13",
     "@storybook/components": "6.4.0-alpha.13",
@@ -68,7 +68,7 @@
     "react-sizeme": "^3.0.1",
     "regenerator-runtime": "^0.13.7",
     "resolve-from": "^5.0.0",
-    "store2": "^2.12.0"
+    "store2": "^2.14.4"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
