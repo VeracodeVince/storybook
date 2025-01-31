@@ -45,9 +45,9 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@storybook/addons": "6.4.0-alpha.13",
+    "@storybook/addons": "3.0.0",
     "@storybook/api": "6.4.0-alpha.13",
-    "@storybook/client-api": "6.4.0-alpha.13",
+    "@storybook/client-api": "5.0.0",
     "@storybook/components": "6.4.0-alpha.13",
     "@storybook/node-logger": "6.4.0-alpha.13",
     "@storybook/theming": "6.4.0-alpha.13",
