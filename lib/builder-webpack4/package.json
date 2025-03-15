@@ -40,7 +40,7 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@babel/core": "^7.12.10",
+    "@babel/core": "^7.26.10",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
     "@babel/plugin-proposal-decorators": "^7.12.12",
     "@babel/plugin-proposal-export-default-from": "^7.12.1",
@@ -74,7 +74,7 @@
     "@storybook/router": "6.4.0-alpha.13",
     "@storybook/semver": "^7.3.2",
     "@storybook/theming": "6.4.0-alpha.13",
-    "@storybook/ui": "6.4.0-alpha.13",
+    "@storybook/ui": "3.0.0",
     "@types/node": "^14.0.10",
     "@types/webpack": "^4.41.26",
     "autoprefixer": "^9.8.6",
