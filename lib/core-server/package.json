@@ -43,7 +43,7 @@
     "@storybook/builder-webpack4": "6.4.0-alpha.13",
     "@storybook/core-client": "6.4.0-alpha.13",
     "@storybook/core-common": "6.4.0-alpha.13",
-    "@storybook/csf-tools": "6.4.0-alpha.13",
+    "@storybook/csf-tools": "6.3.0",
     "@storybook/manager-webpack4": "6.4.0-alpha.13",
     "@storybook/node-logger": "6.4.0-alpha.13",
     "@storybook/semver": "^7.3.2",
