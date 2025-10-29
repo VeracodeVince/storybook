@@ -48,7 +48,7 @@
   "dependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
-    "@storybook/codemod": "6.4.0-alpha.13",
+    "@storybook/codemod": "3.0.0",
     "@storybook/node-logger": "6.4.0-alpha.13",
     "@storybook/semver": "^7.3.2",
     "boxen": "^4.2.0",
