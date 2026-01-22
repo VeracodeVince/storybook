@@ -46,8 +46,8 @@
   },
   "dependencies": {
     "@storybook/addons": "6.4.0-alpha.13",
-    "@storybook/core": "6.4.0-alpha.13",
-    "@storybook/core-common": "6.4.0-alpha.13",
+    "@storybook/core": "3.3.3",
+    "@storybook/core-common": "7.0.0",
     "@types/webpack-env": "^1.16.0",
     "core-js": "^3.8.2",
     "global": "^4.4.0",
@@ -59,7 +59,7 @@
     "ts-loader": "^8.0.14",
     "vue-docgen-api": "^4.38.0",
     "vue-docgen-loader": "^1.5.0",
-    "webpack": "4"
+    "webpack": "5.0.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.20",
