@@ -40,8 +40,8 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@storybook/addons": "6.4.0-alpha.13",
-    "@storybook/channel-postmessage": "6.4.0-alpha.13",
+    "@storybook/addons": "3.0.0",
+    "@storybook/channel-postmessage": "3.0.0",
     "@storybook/channels": "6.4.0-alpha.13",
     "@storybook/client-logger": "6.4.0-alpha.13",
     "@storybook/core-events": "6.4.0-alpha.13",
@@ -50,7 +50,7 @@
     "@types/webpack-env": "^1.16.0",
     "core-js": "^3.8.2",
     "global": "^4.4.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.23",
     "memoizerific": "^1.11.3",
     "qs": "^6.10.0",
     "regenerator-runtime": "^0.13.7",
