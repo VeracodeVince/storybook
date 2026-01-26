@@ -41,14 +41,14 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@storybook/addons": "6.4.0-alpha.13",
+    "@storybook/addons": "3.0.0",
     "@storybook/client-logger": "6.4.0-alpha.13",
     "@storybook/csf": "0.0.1",
     "core-js": "^3.8.2",
     "estraverse": "^5.2.0",
     "global": "^4.4.0",
     "loader-utils": "^2.0.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.23",
     "prettier": "~2.2.1",
     "regenerator-runtime": "^0.13.7"
   },
